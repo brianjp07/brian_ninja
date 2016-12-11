@@ -1,25 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello.... here is some info:
 
-Things you may want to cover:
+* Ruby version: 2.3.1
 
-* Ruby version
+* Using bootstrap of course
 
-* System dependencies
+* System dependencies: Ruby, Rails
 
-* Configuration
+* Currently hosted on heroku: brianparks.ninja
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # brian_ninja
